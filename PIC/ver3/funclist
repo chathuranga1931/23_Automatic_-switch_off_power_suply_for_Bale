@@ -1,0 +1,10 @@
+___awdiv: CODE, 392 0 118
+___awmod: CODE, 288 0 104
+_main: CODE, 1064 0 984
+_isr: CODE, 510 0 224
+_funcCheckBtn: CODE, 118 0 75
+_funcSetDigit: CODE, 193 0 95
+_funcDisplay: CODE, 734 0 330
+___wmul: CODE, 74 0 44
+_funcDispLine: CODE, 4077 0 19
+Total: 1993
